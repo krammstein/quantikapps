@@ -28,9 +28,10 @@
 | Publicación en GitHub Remoto | `github.com/krammstein/quantikapps` | ✅ Publicado | Repositorio creado y código subido a rama `main`. |
 | Walkthrough & Galería Interactiva | Brain Artifacts (`walkthrough.md`) | ✅ Publicado | Carrusel interactivo y tabla comparativa creada. |
 | Feature: Logo Plano Gestalt / Espacio Negativo | `context/features/02_logo_plano_gestalt_closure.md` | ✅ Completado | 3 variaciones 2D planas generadas (`logo_11`, `logo_12`, `logo_13`). |
+| Feature: Variante Light Mode (Azules + Negro / Fondo Blanco) | `context/features/03_variante_light_gestalt_quantum_arc.md` | ✅ Completado | Generada versión Light en PNG (`logo_11_gestalt_quantum_arc_light.png`) y vector SVG. |
 
 ---
 
 ## 🔮 Próximos Pasos Sugeridos
-1. Selección de la propuesta ganadora de logo (o combinación de elementos preferidos entre 3D/Tech y Flat/Gestalt).
-2. Generación de variantes de marca derivadas (versión horizontal con isotipo + texto, favicon, splash screen para apps móviles y headers web).
+1. Confirmación de la versión Light final.
+2. Generación de paquetes de assets listos para producción (Favicons multi-resolución, app icon iOS/Android, cabeceras OpenGraph para web y firma de correo).
